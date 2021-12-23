@@ -2,8 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js            6 hrs 38 mins   ██████████████████████░░░   87.89 % 
-JavaScript        41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Protocol Buffer   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Vue.js       6 hrs 14 mins   █████████████████████▒░░░   85.69 % 
+JavaScript   1 hr 1 min      ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 % 
 ```
 <!--END_SECTION:waka-->
