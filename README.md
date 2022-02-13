@@ -2,9 +2,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript        11 hrs 37 mins  ███████████████▒░░░░░░░░░   61.08 % 
-Vue.js            6 hrs 47 mins   █████████░░░░░░░░░░░░░░░░   35.68 % 
-JSON              23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-Protocol Buffer   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+JavaScript        15 hrs 25 mins  ████████████████░░░░░░░░░   63.64 % 
+Vue.js            8 hrs 11 mins   ████████▒░░░░░░░░░░░░░░░░   33.78 % 
+JSON              23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Protocol Buffer   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 <!--END_SECTION:waka-->
