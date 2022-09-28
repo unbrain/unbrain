@@ -30,10 +30,6 @@
 
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=unbrain&show_icons=true&locale=en&layout=compact" alt="unbrain" /></p>
 
-
-Welcome to my Github page! I am Mara and I am FE!  
-
-<p><img align="center" src="
-https://raw.githubusercontent.com/unbrain/unbrain/main/metrics.plugin.wakatime.svg" alt="unbrain" /></p>
+<p><img align="center" src="https://raw.githubusercontent.com/unbrain/unbrain/main/metrics.plugin.wakatime.svg" alt="unbrain" /></p>
 
 ![Metrics](https://metrics.lecoq.io/unbrain?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai)
