@@ -1,14 +1,11 @@
-[![Mars's GitHub stats](https://github-readme-stats.vercel.app/api?username=unbrain)](https://github.com/unbrain/github-readme-stats)
+### Hello friends👋 
+### This is Mars!
 
-<!--START_SECTION:waka-->
 
-```text
-Vue.js       16 hrs 48 mins  ██████████████▒░░░░░░░░░░   56.99 %
-TypeScript   5 hrs 51 mins   █████░░░░░░░░░░░░░░░░░░░░   19.87 %
-JavaScript   3 hrs 51 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
-JSON         1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-XML          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-HTML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-```
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/unbrain)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marsorun@gmail.com)
 
-<!--END_SECTION:waka-->
+
+Welcome to my Github page! I am Mara and I am FE!  
+
+![Metrics](https://metrics.lecoq.io/unbrain?template=classic&isocalendar=1&languages=1&stars=1&habits=1&reactions=1&introduction=1&calendar=1&projects=1&pagespeed=1&wakatime=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&reactions=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&introduction=false&introduction.title=true&calendar=false&calendar.limit=1&projects=false&projects.limit=4&projects.descriptions=false&pagespeed=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&wakatime=false&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=current&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.days=365&wakatime.limit=5&wakatime.languages.other=true&wakatime.repositories.visibility=all&config.timezone=Asia%2FShanghai&config.twemoji=true&config.octicon=true)
