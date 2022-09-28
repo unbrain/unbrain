@@ -13,6 +13,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/marsorsun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marsorsun" height="30" width="40" /></a>
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/unbrain)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marsorun@gmail.com)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,10 +30,10 @@
 
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=unbrain&show_icons=true&locale=en&layout=compact" alt="unbrain" /></p>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/unbrain)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marsorun@gmail.com)
-
 
 Welcome to my Github page! I am Mara and I am FE!  
 
-![Metrics](https://metrics.lecoq.io/unbrain?template=classic&wakatime=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&wakatime=false&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.days=365&wakatime.limit=5&wakatime.languages.other=false&wakatime.repositories.visibility=all&config.timezone=Asia%2FShanghai)
+<p><img align="center" src="
+https://raw.githubusercontent.com/unbrain/unbrain/4e9ac3f46b4578ac3b492c28fba38669a6591774/metrics.plugin.wakatime.svg" alt="unbrain" /></p>
+
+![Metrics](https://metrics.lecoq.io/unbrain?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai)
