@@ -13,7 +13,7 @@
 
 ## 🚀 技能，及在学
 
-[![My Skills](https://skillicons.dev/icons?i=vite,vue,javascript,react,nodejs,java,python,php)](https://github.com/unbrain)
+[![My Skills](https://skillicons.dev/icons?i=vite,rollup,vscode,vue,javascript,react,nodejs,java,python,php)](https://github.com/unbrain)
 
 
 ![rainbow gif](https://raw.githubusercontent.com/unbrain/unbrain/main/profile-3d-contrib/profile-night-rainbow.svg)
