@@ -56,14 +56,14 @@ Shell                    2 repos             █░░░░░░░░░░�
 ## ⚡ 最近
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [unbrain/unbrain](https://github.com/unbrain/unbrain)<br>
-2. ⬆️ Pushed 1 commit(s) to [unbrain/unbrain](https://github.com/unbrain/unbrain)<br>
+2. ⭐ Starred [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs)<br>
 3. ⬆️ Pushed 1 commit(s) to [unbrain/unbrain](https://github.com/unbrain/unbrain)<br>
 4. ⬆️ Pushed 1 commit(s) to [unbrain/unbrain](https://github.com/unbrain/unbrain)<br>
 5. ⬆️ Pushed 1 commit(s) to [unbrain/unbrain](https://github.com/unbrain/unbrain)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 7th, 2025, 6:31:38 AM
+Last Updated: Wednesday, January 8th, 2025, 6:30:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
