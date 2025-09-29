@@ -24,6 +24,18 @@
 ![snake gif](https://raw.githubusercontent.com/unbrain/unbrain/77e198e28fb66a14643e4e58f5b713c0cc565cfd/github-contribution-grid-snake-dark.svg) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C443%20hrs%2045%20mins-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                290 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+🌆 Daytime                1180 commits        █████████░░░░░░░░░░░░░░░░   34.04 % 
+🌃 Evening                1704 commits        ████████████░░░░░░░░░░░░░   49.15 % 
+🌙 Night                  293 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+```
+
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -37,7 +49,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2025 06:17:16 UTC
+ Last Updated on 29/09/2025 06:21:10 UTC
 <!--END_SECTION:waka-->
 
 
