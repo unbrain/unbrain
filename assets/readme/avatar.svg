@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="0 0 400 400" role="img" aria-labelledby="avatarTitle">
+  <title id="avatarTitle">unbrain avatar</title>
+  <desc>Animated profile avatar for unbrain</desc>
+
+  <defs>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#f0883e"/>
+      <stop offset="100%" stop-color="#58a6ff"/>
+    </linearGradient>
+    <radialGradient id="glowGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="70%" stop-color="transparent"/>
+      <stop offset="100%" stop-color="#58a6ff"/>
+    </radialGradient>
+    <clipPath id="avatarClip">
+      <circle cx="200" cy="200" r="130"/>
+    </clipPath>
+  </defs>
+
+  <rect width="400" height="400" rx="20" fill="#0d1117"/>
+
+  <g transform="translate(200 200)">
+    <circle cx="0" cy="0" r="144" fill="#1c2128"/>
+    <circle cx="0" cy="0" r="144" fill="none" stroke="#30363d" stroke-width="1"/>
+
+    <circle cx="0" cy="0" r="138" fill="none" stroke="url(#ringGrad)" stroke-width="3" stroke-dasharray="8 6" opacity="0.6">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="0" cy="0" r="146" fill="none" stroke="url(#ringGrad)" stroke-width="6" opacity="0.4">
+      <animate attributeName="opacity" values="0.4;0.8;0.4" dur="3s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="0" cy="0" r="130" fill="#161b22"/>
+
+    <image x="-130" y="-130" width="260" height="260" clip-path="url(#avatarClip)"
+           xlink:href="avatar.png"/>
+
+    <circle cx="0" cy="0" r="130" fill="none" stroke="#e6edf3" stroke-width="2" opacity="0.1"/>
+  </g>
+</svg>

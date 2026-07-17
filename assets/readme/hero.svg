@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">unbrain - Front-end Developer</title>
+  <desc id="heroDesc">Profile hero for unbrain, a front-end engineer based in Beijing, building modern web applications.</desc>
+
+  <defs>
+    <linearGradient id="heroBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#141a23"/>
+    </linearGradient>
+    <linearGradient id="accentBar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#f0883e"/>
+    </linearGradient>
+    <clipPath id="heroAvatarClip">
+      <circle cx="200" cy="200" r="130"/>
+    </clipPath>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#f0883e"/>
+      <stop offset="100%" stop-color="#58a6ff"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="380" rx="16" fill="url(#heroBg)"/>
+  <rect x="0" y="0" width="1200" height="380" rx="16" fill="none" stroke="#30363d" stroke-width="1"/>
+
+  <g transform="translate(64, 56)">
+    <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#8b949e" letter-spacing="3">
+      &lt;developer /&gt;
+    </text>
+
+    <text x="0" y="60" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="52" font-weight="700" fill="#e6edf3" letter-spacing="-1">
+      unbrain
+    </text>
+
+    <rect x="0" y="80" width="72" height="4" rx="2" fill="url(#accentBar)"/>
+
+    <text x="0" y="124" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="22" fill="#8b949e">
+      前端开发工程师
+      <tspan dx="12" fill="#f0883e">·</tspan>
+      <tspan dx="12" fill="#8b949e">北京</tspan>
+    </text>
+
+    <g transform="translate(0, 168)">
+      <rect x="0" y="-8" width="10" height="10" rx="3" fill="#f0883e"/>
+      <text x="22" y="1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="16" fill="#8b949e">
+        前端开发 at Sina Weibo
+      </text>
+    </g>
+
+    <g transform="translate(0, 220)">
+      <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#8b949e">
+        <tspan fill="#58a6ff">✉</tspan>
+        <tspan dx="10">marsorsun@gmail.com</tspan>
+      </text>
+      <text x="0" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#8b949e">
+        <tspan fill="#58a6ff">◈</tspan>
+        <tspan dx="10">callmejesus.xyz</tspan>
+      </text>
+    </g>
+  </g>
+
+  <g transform="translate(770, 40) scale(0.75)">
+    <circle cx="200" cy="200" r="144" fill="#1c2128"/>
+    <circle cx="200" cy="200" r="144" fill="none" stroke="#30363d" stroke-width="1"/>
+
+    <circle cx="200" cy="200" r="138" fill="none" stroke="url(#ringGrad)" stroke-width="3" stroke-dasharray="8 6" opacity="0.6">
+      <animateTransform attributeName="transform" type="rotate" from="0 200 200" to="360 200 200" dur="12s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="200" cy="200" r="146" fill="none" stroke="url(#ringGrad)" stroke-width="6" opacity="0.4">
+      <animate attributeName="opacity" values="0.4;0.8;0.4" dur="3s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="200" cy="200" r="130" fill="#161b22"/>
+
+    <image x="-130" y="-130" width="260" height="260" clip-path="url(#heroAvatarClip)"
+           xlink:href="avatar.png" preserveAspectRatio="xMidYMid slice"/>
+
+    <circle cx="200" cy="200" r="130" fill="none" stroke="#e6edf3" stroke-width="2" opacity="0.1"/>
+  </g>
+</svg>
