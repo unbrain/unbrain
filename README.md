@@ -37,17 +37,45 @@
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C432%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C386%20hrs%2023%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-295%20hrs%204%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                296 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-🌆 Daytime                1187 commits        ████████░░░░░░░░░░░░░░░░░   31.93 % 
-🌃 Evening                1790 commits        ████████████░░░░░░░░░░░░░   48.14 % 
-🌙 Night                  445 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+🌆 Daytime                1187 commits        ████████░░░░░░░░░░░░░░░░░   31.91 % 
+🌃 Evening                1791 commits        ████████████░░░░░░░░░░░░░   48.15 % 
+🌙 Night                  446 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
 ```
 
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 29 hrs 10 mins (69.56%)
+
+✍️ 10,394 lines written by AI, 2,198 lines written by hand (82.54% AI-written)
+
+🔤 208,535,049 Input Tokens, 796,426 Output Tokens
+
+💵 $925.44 Estimated AI Cost This Week
+
+🧠 120 AI Sessions, 527 AI Prompts
+
+Opus                     4,561 lines         █████████░░░░░░░░░░░░░░░░   35.94 % 
+Claude-Code              4,131 lines         ████████░░░░░░░░░░░░░░░░░   32.55 % 
+GPT                      1,859 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+K                        1,091 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Github-Copilot           672 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 82.54% of written lines came from AI
+📄 Detailed Prompter — average 1,028 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 21.63% of changed lines were hand-edited
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -62,7 +90,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 09:34:33 UTC
+ Last Updated on 28/07/2026 08:17:47 UTC
 <!--END_SECTION:waka-->
 
 <br>
