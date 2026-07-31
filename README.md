@@ -37,44 +37,44 @@
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C401%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C409%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-307%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-312%20hrs%2031%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                296 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-🌆 Daytime                1187 commits        ████████░░░░░░░░░░░░░░░░░   31.81 % 
-🌃 Evening                1791 commits        ████████████░░░░░░░░░░░░░   48.00 % 
-🌙 Night                  457 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+🌆 Daytime                1187 commits        ████████░░░░░░░░░░░░░░░░░   31.78 % 
+🌃 Evening                1793 commits        ████████████░░░░░░░░░░░░░   48.01 % 
+🌙 Night                  459 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 13 mins (73.01%)
+⏱ AI Coding Time: 30 hrs 23 mins (70.13%)
 
-✍️ 21,202 lines written by AI, 2,100 lines written by hand (90.99% AI-written)
+✍️ 18,661 lines written by AI, 1,809 lines written by hand (91.16% AI-written)
 
-🔤 262,515,288 Input Tokens, 1,269,904 Output Tokens
+🔤 269,516,785 Input Tokens, 1,359,374 Output Tokens
 
-💵 $1076.37 Estimated AI Cost This Week
+💵 $1115.51 Estimated AI Cost This Week
 
-🧠 109 AI Sessions, 489 AI Prompts
+🧠 100 AI Sessions, 460 AI Prompts
 
-Opus                     10,206 lines        ███████████░░░░░░░░░░░░░░   43.58 % 
-K                        7,406 lines         ████████░░░░░░░░░░░░░░░░░   31.62 % 
-Claude-Code              4,131 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-GPT                      775 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-Github-Copilot           618 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Opus                     8,628 lines         ███████████░░░░░░░░░░░░░░   42.34 % 
+K                        7,926 lines         ██████████░░░░░░░░░░░░░░░   38.90 % 
+Claude-Code              2,121 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+GPT                      775 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Github-Copilot           618 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.99% of written lines came from AI
-📄 Detailed Prompter — average 818 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 12.27% of changed lines were hand-edited
+🤖 AI-Driven — 91.16% of written lines came from AI
+📝 Concise Prompter — average 478 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 12.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +90,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 08:10:24 UTC
+ Last Updated on 31/07/2026 08:37:44 UTC
 <!--END_SECTION:waka-->
 
 <br>
