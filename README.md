@@ -54,27 +54,27 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 54 mins (67.02%)
+⏱ AI Coding Time: 26 hrs 58 mins (72.33%)
 
-✍️ 16,587 lines written by AI, 1,770 lines written by hand (90.36% AI-written)
+✍️ 28,186 lines written by AI, 1,063 lines written by hand (96.37% AI-written)
 
-🔤 234,932,926 Input Tokens, 1,210,280 Output Tokens
+🔤 238,727,290 Input Tokens, 1,223,334 Output Tokens
 
-💵 $964.16 Estimated AI Cost This Week
+💵 $984.14 Estimated AI Cost This Week
 
-🧠 98 AI Sessions, 437 AI Prompts
+🧠 94 AI Sessions, 410 AI Prompts
 
-Opus                     8,195 lines         ███████████░░░░░░░░░░░░░░   45.01 % 
-K                        7,256 lines         ██████████░░░░░░░░░░░░░░░   39.85 % 
-Claude-Code              1,062 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-GPT                      774 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Github-Copilot           618 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Opus                     19,718 lines        █████████████████░░░░░░░░   66.18 % 
+K                        7,353 lines         ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+Claude-Code              1,062 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+GPT                      774 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Github-Copilot           618 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.36% of written lines came from AI
-📝 Concise Prompter — average 469 characters per prompt
+🤖 AI-Driven — 96.37% of written lines came from AI
+📝 Concise Prompter — average 485 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 13.29% of changed lines were hand-edited
+🚀 High AI Trust — 6.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +90,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 08:06:40 UTC
+ Last Updated on 02/08/2026 08:08:43 UTC
 <!--END_SECTION:waka-->
 
 <br>
