@@ -37,9 +37,9 @@
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C438%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C441%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-331%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-331%20hrs%2036%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -54,27 +54,27 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 37 mins (66.49%)
+⏱ AI Coding Time: 17 hrs 49 mins (61.03%)
 
-✍️ 1,837 lines written by AI, 596 lines written by hand (75.5% AI-written)
+✍️ 1,846 lines written by AI, 2,177 lines written by hand (45.89% AI-written)
 
-🔤 55,656,921 Input Tokens, 242,300 Output Tokens
+🔤 55,733,666 Input Tokens, 245,860 Output Tokens
 
-💵 $289.83 Estimated AI Cost This Week
+💵 $290.11 Estimated AI Cost This Week
 
-🧠 58 AI Sessions, 327 AI Prompts
+🧠 59 AI Sessions, 332 AI Prompts
 
-Opus                     1,155 lines         █████████████░░░░░░░░░░░░   53.80 % 
-Deepseek                 992 lines           ████████████░░░░░░░░░░░░░   46.20 % 
+Opus                     1,155 lines         █████████████░░░░░░░░░░░░   53.55 % 
+Deepseek                 1,002 lines         ████████████░░░░░░░░░░░░░   46.45 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 75.5% of written lines came from AI
-📝 Concise Prompter — average 206 characters per prompt
+⚖️ Balanced with AI — 45.89% of written lines came from AI
+📝 Concise Prompter — average 226 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 28.95% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 55.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +90,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 06:37:31 UTC
+ Last Updated on 09/08/2026 06:41:05 UTC
 <!--END_SECTION:waka-->
 
 <br>
