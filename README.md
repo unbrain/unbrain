@@ -37,9 +37,9 @@
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C459%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C474%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-347%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-360%20hrs%2049%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -54,27 +54,27 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 9 mins (68.91%)
+⏱ AI Coding Time: 32 hrs 9 mins (76.88%)
 
-✍️ 2,818 lines written by AI, 2,444 lines written by hand (53.55% AI-written)
+✍️ 7,191 lines written by AI, 2,527 lines written by hand (74.0% AI-written)
 
-🔤 23,482,323 Input Tokens, 560,354 Output Tokens
+🔤 79,599,720 Input Tokens, 1,446,514 Output Tokens
 
-💵 $193.81 Estimated AI Cost This Week
+💵 $746.01 Estimated AI Cost This Week
 
-🧠 125 AI Sessions, 598 AI Prompts
+🧠 916 AI Sessions, 811 AI Prompts
 
-Opus                     2,665 lines         ██████████████████████░░░   86.00 % 
-Deepseek                 434 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Opus                     3,780 lines         █████████████░░░░░░░░░░░░   50.66 % 
+OMP                      2,916 lines         ██████████░░░░░░░░░░░░░░░   39.08 % 
+Deepseek                 766 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Hy                       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-OMP                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 53.55% of written lines came from AI
-📝 Concise Prompter — average 223 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 49.88% of changed lines were hand-edited
+🤖 AI-Driven — 74.0% of written lines came from AI
+📚 Verbose Prompter — average 7,417 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 28.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +90,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 07:15:54 UTC
+ Last Updated on 14/08/2026 07:12:10 UTC
 <!--END_SECTION:waka-->
 
 <br>
