@@ -37,9 +37,9 @@
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C474%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C486%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-360%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-373%20hrs%203%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -54,27 +54,27 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 9 mins (76.88%)
+⏱ AI Coding Time: 41 hrs 31 mins (83.99%)
 
-✍️ 7,191 lines written by AI, 2,527 lines written by hand (74.0% AI-written)
+✍️ 13,385 lines written by AI, 3,026 lines written by hand (81.56% AI-written)
 
-🔤 79,599,720 Input Tokens, 1,446,514 Output Tokens
+🔤 189,368,290 Input Tokens, 2,118,465 Output Tokens
 
-💵 $746.01 Estimated AI Cost This Week
+💵 $1416.03 Estimated AI Cost This Week
 
-🧠 916 AI Sessions, 811 AI Prompts
+🧠 2217 AI Sessions, 1120 AI Prompts
 
-Opus                     3,780 lines         █████████████░░░░░░░░░░░░   50.66 % 
-OMP                      2,916 lines         ██████████░░░░░░░░░░░░░░░   39.08 % 
-Deepseek                 766 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+OMP                      6,582 lines         ████████████░░░░░░░░░░░░░   48.97 % 
+Opus                     6,150 lines         ███████████░░░░░░░░░░░░░░   45.76 % 
+Deepseek                 709 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 Hy                       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 74.0% of written lines came from AI
-📚 Verbose Prompter — average 7,417 characters per prompt
+🤖 AI-Driven — 81.56% of written lines came from AI
+📚 Verbose Prompter — average 5,400 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 28.44% of changed lines were hand-edited
+🚀 High AI Trust — 20.36% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +90,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2026 07:12:10 UTC
+ Last Updated on 15/08/2026 06:23:04 UTC
 <!--END_SECTION:waka-->
 
 <br>
