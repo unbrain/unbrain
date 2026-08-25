@@ -37,44 +37,44 @@
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C531%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C537%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-412%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-417%20hrs%2040%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                296 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-🌆 Daytime                1187 commits        ████████░░░░░░░░░░░░░░░░░   31.41 % 
-🌃 Evening                1804 commits        ████████████░░░░░░░░░░░░░   47.74 % 
-🌙 Night                  492 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+🌆 Daytime                1188 commits        ████████░░░░░░░░░░░░░░░░░   31.42 % 
+🌃 Evening                1804 commits        ████████████░░░░░░░░░░░░░   47.71 % 
+🌙 Night                  493 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 34 mins (79.83%)
+⏱ AI Coding Time: 29 hrs 5 mins (82.62%)
 
-✍️ 5,862 lines written by AI, 375 lines written by hand (93.99% AI-written)
+✍️ 7,205 lines written by AI, 294 lines written by hand (96.08% AI-written)
 
-🔤 119,843,352 Input Tokens, 915,637 Output Tokens
+🔤 91,770,045 Input Tokens, 1,007,697 Output Tokens
 
-💵 $804.26 Estimated AI Cost This Week
+💵 $689.47 Estimated AI Cost This Week
 
-🧠 1077 AI Sessions, 430 AI Prompts
+🧠 814 AI Sessions, 461 AI Prompts
 
-Opus                     2,387 lines         █████████░░░░░░░░░░░░░░░░   37.92 % 
-OMP                      1,567 lines         ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-Opencode-Cli             1,536 lines         ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
-Deepseek                 760 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Hy                       45 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Opencode-Cli             3,717 lines         ████████████░░░░░░░░░░░░░   48.56 % 
+Opus                     2,093 lines         ███████░░░░░░░░░░░░░░░░░░   27.35 % 
+OMP                      1,039 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Deepseek                 760 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Hy                       45 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.99% of written lines came from AI
-📝 Concise Prompter — average 262 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 7.75% of changed lines were hand-edited
+🤖 AI-Driven — 96.08% of written lines came from AI
+📝 Concise Prompter — average 276 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 5.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +90,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 06:39:29 UTC
+ Last Updated on 25/08/2026 06:31:18 UTC
 <!--END_SECTION:waka-->
 
 <br>
