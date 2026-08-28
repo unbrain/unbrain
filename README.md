@@ -37,44 +37,44 @@
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C549%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C553%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-424%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-427%20hrs%2027%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                296 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-🌆 Daytime                1188 commits        ████████░░░░░░░░░░░░░░░░░   31.35 % 
-🌃 Evening                1806 commits        ████████████░░░░░░░░░░░░░   47.66 % 
-🌙 Night                  499 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+🌆 Daytime                1188 commits        ████████░░░░░░░░░░░░░░░░░   31.34 % 
+🌃 Evening                1806 commits        ████████████░░░░░░░░░░░░░   47.64 % 
+🌙 Night                  501 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 9 mins (76.05%)
+⏱ AI Coding Time: 22 hrs 43 mins (73.57%)
 
-✍️ 6,831 lines written by AI, 592 lines written by hand (92.02% AI-written)
+✍️ 6,819 lines written by AI, 609 lines written by hand (91.8% AI-written)
 
-🔤 30,583,526 Input Tokens, 947,576 Output Tokens
+🔤 29,451,274 Input Tokens, 933,351 Output Tokens
 
-💵 $487.21 Estimated AI Cost This Week
+💵 $478.15 Estimated AI Cost This Week
 
-🧠 386 AI Sessions, 460 AI Prompts
+🧠 376 AI Sessions, 415 AI Prompts
 
-Opencode-Cli             3,964 lines         █████████████░░░░░░░░░░░░   51.93 % 
-Opus                     2,420 lines         ████████░░░░░░░░░░░░░░░░░   31.70 % 
-OMP                      701 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Deepseek                 503 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Hy                       45 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Opencode-Cli             3,964 lines         █████████████░░░░░░░░░░░░   52.10 % 
+Opus                     2,414 lines         ████████░░░░░░░░░░░░░░░░░   31.73 % 
+OMP                      701 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+Deepseek                 446 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Hy                       83 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.02% of written lines came from AI
-📝 Concise Prompter — average 319 characters per prompt
+🤖 AI-Driven — 91.8% of written lines came from AI
+📝 Concise Prompter — average 375 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 9.31% of changed lines were hand-edited
+🚀 High AI Trust — 9.95% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +90,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026 17:09:01 UTC
+ Last Updated on 28/08/2026 17:56:28 UTC
 <!--END_SECTION:waka-->
 
 <br>
