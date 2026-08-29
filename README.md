@@ -37,9 +37,9 @@
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C553%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C559%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-427%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-433%20hrs%2036%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -54,27 +54,27 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 43 mins (73.57%)
+⏱ AI Coding Time: 26 hrs 28 mins (77.87%)
 
-✍️ 6,819 lines written by AI, 609 lines written by hand (91.8% AI-written)
+✍️ 9,206 lines written by AI, 565 lines written by hand (94.22% AI-written)
 
-🔤 29,451,274 Input Tokens, 933,351 Output Tokens
+🔤 36,944,698 Input Tokens, 1,198,119 Output Tokens
 
-💵 $478.15 Estimated AI Cost This Week
+💵 $548.89 Estimated AI Cost This Week
 
-🧠 376 AI Sessions, 415 AI Prompts
+🧠 464 AI Sessions, 523 AI Prompts
 
-Opencode-Cli             3,964 lines         █████████████░░░░░░░░░░░░   52.10 % 
-Opus                     2,414 lines         ████████░░░░░░░░░░░░░░░░░   31.73 % 
-OMP                      701 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Deepseek                 446 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-Hy                       83 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Opus                     5,156 lines         █████████████░░░░░░░░░░░░   51.25 % 
+Opencode-Cli             3,964 lines         ██████████░░░░░░░░░░░░░░░   39.40 % 
+OMP                      701 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Hy                       190 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Deepseek                 50 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.8% of written lines came from AI
-📝 Concise Prompter — average 375 characters per prompt
+🤖 AI-Driven — 94.22% of written lines came from AI
+📝 Concise Prompter — average 352 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 9.95% of changed lines were hand-edited
+🚀 High AI Trust — 7.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +90,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 17:56:28 UTC
+ Last Updated on 29/08/2026 12:00:55 UTC
 <!--END_SECTION:waka-->
 
 <br>
