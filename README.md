@@ -1,145 +1,92 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="unbrain - Front-end Developer">
+  <img src="https://raw.githubusercontent.com/unbrain/unbrain/main/assets/readme/hero.svg?v=3" width="100%" alt="unbrain - Front-end Developer">
 </p>
 
 <br>
 
-<h2 align="center">
-  🚀 Skills
-  <br>
-  <img src="./assets/readme/divider.svg" width="240" height="4" alt="Section divider">
-</h2>
+<h2 align="center">🚀 Skills</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,rollup,vscode,vue,javascript,react,nodejs,java,python,php" alt="Tech Stack">
-  </a>
+  <img src="./assets/readme/divider.svg" width="240" height="4" alt="">
 </p>
-
-<br>
-
-<h2 align="center">
-  🌱 Contributions
-  <br>
-  <img src="./assets/readme/divider.svg" width="240" height="4" alt="Section divider">
-</h2>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-    <img src="./profile-3d-contrib/profile-season-animate.svg" width="80%" alt="3D Contribution Graph">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vite,rollup,vue,javascript,react,nodejs,ts&perline=7&theme=dark">
+    <img src="https://skillicons.dev/icons?i=vite,rollup,vue,javascript,react,nodejs,ts&perline=7&theme=light" alt="Tech stack: Vite, Rollup, Vue, JavaScript, React, Node.js, TypeScript">
   </picture>
+</p>
+
+<br>
+
+<h2 align="center">🌱 Contributions</h2>
+
+<p align="center">
+  <img src="./assets/readme/divider.svg" width="240" height="4" alt="">
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unbrain/unbrain/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/unbrain/unbrain/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+    <img src="https://raw.githubusercontent.com/unbrain/unbrain/output/github-contribution-grid-snake.svg" width="80%" alt="Contribution Snake">
   </picture>
 </p>
 
 <br>
 
-<h2 align="center">
-  📈 Summary Cards
-  <br>
-  <img src="./assets/readme/divider.svg" width="240" height="4" alt="Section divider">
-</h2>
+<h2 align="center">📈 Metrics</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unbrain/unbrain/main/profile-summary-card-output/github_dark/0-profile-details.svg">
-    <img src="https://raw.githubusercontent.com/unbrain/unbrain/main/profile-summary-card-output/github/0-profile-details.svg" width="49%" alt="Profile details card">
-  </picture>
+  <img src="./assets/readme/divider.svg" width="240" height="4" alt="">
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unbrain/unbrain/main/profile-summary-card-output/github_dark/3-stats.svg">
     <img src="https://raw.githubusercontent.com/unbrain/unbrain/main/profile-summary-card-output/github/3-stats.svg" width="49%" alt="GitHub stats card">
   </picture>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unbrain/unbrain/main/profile-summary-card-output/github_dark/4-productive-time.svg">
     <img src="https://raw.githubusercontent.com/unbrain/unbrain/main/profile-summary-card-output/github/4-productive-time.svg" width="49%" alt="Productive time card">
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unbrain/unbrain/main/profile-summary-card-output/github_dark/2-most-commit-language.svg">
+    <img src="https://raw.githubusercontent.com/unbrain/unbrain/main/profile-summary-card-output/github/2-most-commit-language.svg" width="49%" alt="Most committed languages card">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unbrain/unbrain/main/profile-summary-card-output/github_dark/1-repos-per-language.svg">
+    <img src="https://raw.githubusercontent.com/unbrain/unbrain/main/profile-summary-card-output/github/1-repos-per-language.svg" width="49%" alt="Repositories per language card">
+  </picture>
+</p>
+
 <br>
 
-<h2 align="center">
-  ⏱ Coding Activity
-  <br>
-  <img src="./assets/readme/divider.svg" width="240" height="4" alt="Section divider">
-</h2>
+<h2 align="center">⏱ Coding Activity</h2>
+
+<p align="center">
+  <img src="./assets/readme/divider.svg" width="240" height="4" alt="">
+</p>
 
 <!--START_SECTION:waka-->
 ![Code Time](https://img.shields.io/badge/Code%20Time-5%2C569%20hrs%207%20mins-blue?style=flat)
-
-![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-443%20hrs%2042%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                296 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-🌆 Daytime                1188 commits        ████████░░░░░░░░░░░░░░░░░   31.34 % 
-🌃 Evening                1806 commits        ████████████░░░░░░░░░░░░░   47.64 % 
-🌙 Night                  501 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 32 hrs 21 mins (80.96%)
-
-✍️ 9,290 lines written by AI, 588 lines written by hand (94.05% AI-written)
-
-🔤 25,474,565 Input Tokens, 1,708,890 Output Tokens
-
-💵 $373.03 Estimated AI Cost This Week
-
-🧠 292 AI Sessions, 655 AI Prompts
-
-Opus                     5,156 lines         █████████████░░░░░░░░░░░░   52.61 % 
-Opencode-Cli             2,428 lines         ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
-Hy                       1,181 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Glm                      965 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-OMP                      70 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 94.05% of written lines came from AI
-📝 Concise Prompter — average 302 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 7.56% of changed lines were hand-edited
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               20 repos            ██████████░░░░░░░░░░░░░░░   39.22 % 
-Vue                      12 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-CSS                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-```
-
-
-
 
  Last Updated on 31/08/2026 12:13:25 UTC
 <!--END_SECTION:waka-->
 
 <br>
 
-<h2 align="center">
-  📫 Connect
-  <br>
-  <img src="./assets/readme/divider.svg" width="240" height="4" alt="Section divider">
-</h2>
+<h2 align="center">📫 Connect</h2>
+
+<p align="center">
+  <img src="./assets/readme/divider.svg" width="240" height="4" alt="">
+</p>
 
 <p align="center">
   <a href="https://www.callmejesus.xyz/">
-    <img src="https://img.shields.io/badge/Website-callmejesus.xyz-58a6ff?style=for-the-badge&logo=vercel" alt="Personal Website">
+    <img src="https://img.shields.io/badge/Website-callmejesus.xyz-58a6ff?style=for-the-badge" alt="Personal Website">
   </a>
   &nbsp;
   <a href="mailto:marsorsun@gmail.com">
