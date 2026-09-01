@@ -19,6 +19,11 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v5
+
+      # NOTE: each action run wipes profile-summary-card-output/ (app.ts does
+      # `rm -rf` first), so AUTO_PUSH must stay false and both themes are
+      # committed together at the end - otherwise the second theme would
+      # delete the first one's files.
       - name: dark theme
         uses: vn7n24fzkq/github-profile-summary-cards@v0.9.3
         env:
@@ -28,6 +33,11 @@ jobs:
           UTC_OFFSET: 8
           THEME: github_dark
           ANIMATION: load
+          AUTO_PUSH: false
+
+      - name: preserve dark cards
+        run: cp -r profile-summary-card-output/github_dark /tmp/psc-dark
+
       - name: light theme
         uses: vn7n24fzkq/github-profile-summary-cards@v0.9.3
         env:
@@ -37,3 +47,20 @@ jobs:
           UTC_OFFSET: 8
           THEME: github
           ANIMATION: load
+          AUTO_PUSH: false
+
+      - name: restore dark cards
+        run: cp -r /tmp/psc-dark profile-summary-card-output/github_dark
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add profile-summary-card-output/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Generate profile summary cards"
+            git pull --rebase
+            git push
+          fi
