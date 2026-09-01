@@ -19,13 +19,23 @@
 <br>
 
 <h2 align="center">
-  📊 GitHub Stats
+  🌱 Contributions
   <br>
   <img src="./assets/readme/divider.svg" width="240" height="4" alt="Section divider">
 </h2>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="80%" alt="3D Contribution Graph">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <img src="./profile-3d-contrib/profile-season-animate.svg" width="80%" alt="3D Contribution Graph">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unbrain/unbrain/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/unbrain/unbrain/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+  </picture>
 </p>
 
 <br>
