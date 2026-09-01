@@ -41,6 +41,32 @@
 <br>
 
 <h2 align="center">
+  📈 Summary Cards
+  <br>
+  <img src="./assets/readme/divider.svg" width="240" height="4" alt="Section divider">
+</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unbrain/unbrain/main/profile-summary-card-output/github_dark/0-profile-details.svg">
+    <img src="https://raw.githubusercontent.com/unbrain/unbrain/main/profile-summary-card-output/github/0-profile-details.svg" width="49%" alt="Profile details card">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unbrain/unbrain/main/profile-summary-card-output/github_dark/3-stats.svg">
+    <img src="https://raw.githubusercontent.com/unbrain/unbrain/main/profile-summary-card-output/github/3-stats.svg" width="49%" alt="GitHub stats card">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unbrain/unbrain/main/profile-summary-card-output/github_dark/4-productive-time.svg">
+    <img src="https://raw.githubusercontent.com/unbrain/unbrain/main/profile-summary-card-output/github/4-productive-time.svg" width="49%" alt="Productive time card">
+  </picture>
+</p>
+
+<br>
+
+<h2 align="center">
   ⏱ Coding Activity
   <br>
   <img src="./assets/readme/divider.svg" width="240" height="4" alt="Section divider">

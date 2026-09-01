@@ -1,0 +1,39 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    - cron: '30 7 * * *' # Daily at 07:30 UTC (15:30 Beijing)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-push
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: dark theme
+        uses: vn7n24fzkq/github-profile-summary-cards@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 8
+          THEME: github_dark
+          ANIMATION: load
+      - name: light theme
+        uses: vn7n24fzkq/github-profile-summary-cards@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 8
+          THEME: github
+          ANIMATION: load
