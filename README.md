@@ -71,9 +71,38 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-5%2C569%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C575%20hrs%2021%20mins-blue?style=flat)
 
- Last Updated on 31/08/2026 12:13:25 UTC
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-448%20hrs%2044%20mins-blue?style=flat)
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 31 hrs 59 mins (80.0%)
+
+✍️ 7,070 lines written by AI, 784 lines written by hand (90.02% AI-written)
+
+🔤 24,417,524 Input Tokens, 1,758,379 Output Tokens
+
+💵 $348.75 Estimated AI Cost This Week
+
+🧠 282 AI Sessions, 634 AI Prompts
+
+Opus                     5,042 lines         █████████████████░░░░░░░░   66.56 % 
+Hy                       1,181 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Glm                      965 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Opencode-Cli             247 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Tencent Hy               70 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 90.02% of written lines came from AI
+📝 Concise Prompter — average 373 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 11.77% of changed lines were hand-edited
+```
+
+
+ Last Updated on 01/09/2026 10:47:03 UTC
 <!--END_SECTION:waka-->
 
 <br>
