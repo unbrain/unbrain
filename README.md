@@ -71,38 +71,38 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C575%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C588%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-448%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-462%20hrs%203%20mins-blue?style=flat)
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 59 mins (80.0%)
+⏱ AI Coding Time: 42 hrs 15 mins (86.65%)
 
-✍️ 7,070 lines written by AI, 784 lines written by hand (90.02% AI-written)
+✍️ 22,192 lines written by AI, 635 lines written by hand (97.22% AI-written)
 
-🔤 24,417,524 Input Tokens, 1,758,379 Output Tokens
+🔤 39,552,839 Input Tokens, 3,624,617 Output Tokens
 
-💵 $348.75 Estimated AI Cost This Week
+💵 $671.43 Estimated AI Cost This Week
 
-🧠 282 AI Sessions, 634 AI Prompts
+🧠 402 AI Sessions, 937 AI Prompts
 
-Opus                     5,042 lines         █████████████████░░░░░░░░   66.56 % 
-Hy                       1,181 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Glm                      965 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Opencode-Cli             247 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-Tencent Hy               70 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Glm                      16,254 lines        ██████████████████░░░░░░░   72.87 % 
+Opus                     4,531 lines         █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Tencent Hy               1,385 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Opencode-Cli             134 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.02% of written lines came from AI
-📝 Concise Prompter — average 373 characters per prompt
+🤖 AI-Driven — 97.22% of written lines came from AI
+📚 Verbose Prompter — average 16,268 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 11.77% of changed lines were hand-edited
+🚀 High AI Trust — 3.5% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/09/2026 10:47:03 UTC
+ Last Updated on 02/09/2026 10:11:38 UTC
 <!--END_SECTION:waka-->
 
 <br>
