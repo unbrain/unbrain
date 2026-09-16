@@ -71,38 +71,37 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C637%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C641%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-507%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-511%20hrs%2019%20mins-blue?style=flat)
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 17 mins (90.5%)
+⏱ AI Coding Time: 21 hrs 57 mins (90.38%)
 
-✍️ 37,563 lines written by AI, 239 lines written by hand (99.37% AI-written)
+✍️ 14,994 lines written by AI, 162 lines written by hand (98.93% AI-written)
 
-🔤 28,386,657 Input Tokens, 1,798,760 Output Tokens
+🔤 19,723,020 Input Tokens, 976,968 Output Tokens
 
-💵 $159.71 Estimated AI Cost This Week
+💵 $134.29 Estimated AI Cost This Week
 
-🧠 109 AI Sessions, 407 AI Prompts
+🧠 80 AI Sessions, 324 AI Prompts
 
-Gemini                   34,489 lines        ███████████████████████░░   90.47 % 
-Opus                     2,232 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-Glm                      898 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-Sonnet                   503 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   12,356 lines        ████████████████████░░░░░   79.78 % 
+Opus                     2,407 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Glm                      721 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Claude-Code              3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.37% of written lines came from AI
-📄 Detailed Prompter — average 832 characters per prompt
+🤖 AI-Driven — 98.93% of written lines came from AI
+📄 Detailed Prompter — average 1,053 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 5.87% of changed lines were hand-edited
+🚀 High AI Trust — 1.58% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/09/2026 10:41:41 UTC
+ Last Updated on 16/09/2026 10:30:00 UTC
 <!--END_SECTION:waka-->
 
 <br>
