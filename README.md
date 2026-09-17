@@ -71,37 +71,37 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C641%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C646%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-511%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-516%20hrs%2010%20mins-blue?style=flat)
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 57 mins (90.38%)
+⏱ AI Coding Time: 20 hrs 46 mins (88.7%)
 
-✍️ 14,994 lines written by AI, 162 lines written by hand (98.93% AI-written)
+✍️ 5,233 lines written by AI, 153 lines written by hand (97.16% AI-written)
 
-🔤 19,723,020 Input Tokens, 976,968 Output Tokens
+🔤 13,983,064 Input Tokens, 547,436 Output Tokens
 
-💵 $134.29 Estimated AI Cost This Week
+💵 $125.87 Estimated AI Cost This Week
 
-🧠 80 AI Sessions, 324 AI Prompts
+🧠 75 AI Sessions, 302 AI Prompts
 
-Gemini                   12,356 lines        ████████████████████░░░░░   79.78 % 
-Opus                     2,407 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Glm                      721 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-Claude-Code              3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Gemini                   3,252 lines         ██████████████░░░░░░░░░░░   54.47 % 
+Opus                     2,243 lines         █████████░░░░░░░░░░░░░░░░   37.57 % 
+Glm                      472 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Claude-Code              3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.93% of written lines came from AI
-📄 Detailed Prompter — average 1,053 characters per prompt
+🤖 AI-Driven — 97.16% of written lines came from AI
+📄 Detailed Prompter — average 1,193 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.58% of changed lines were hand-edited
+🚀 High AI Trust — 4.02% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/09/2026 10:30:00 UTC
+ Last Updated on 17/09/2026 10:39:45 UTC
 <!--END_SECTION:waka-->
 
 <br>
