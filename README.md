@@ -71,38 +71,38 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C668%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C676%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-535%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-542%20hrs%2030%20mins-blue?style=flat)
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 57 mins (81.04%)
+⏱ AI Coding Time: 26 hrs 16 mins (83.42%)
 
-✍️ 9,821 lines written by AI, 49 lines written by hand (99.5% AI-written)
+✍️ 15,234 lines written by AI, 89 lines written by hand (99.42% AI-written)
 
-🔤 16,102,101 Input Tokens, 685,010 Output Tokens
+🔤 19,194,894 Input Tokens, 913,606 Output Tokens
 
-💵 $60.62 Estimated AI Cost This Week
+💵 $55.97 Estimated AI Cost This Week
 
-🧠 87 AI Sessions, 399 AI Prompts
+🧠 84 AI Sessions, 401 AI Prompts
 
-Gemini                   9,403 lines         ████████████████████████░   94.65 % 
-Sonnet                   280 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-Opus                     228 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-Qwen                     24 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   14,770 lines        ████████████████████████░   96.46 % 
+Sonnet                   515 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Qwen                     24 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Claude-Code              3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.5% of written lines came from AI
-📄 Detailed Prompter — average 1,008 characters per prompt
+🤖 AI-Driven — 99.42% of written lines came from AI
+📄 Detailed Prompter — average 1,077 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.76% of changed lines were hand-edited
+🚀 High AI Trust — 0.75% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/09/2026 10:28:38 UTC
+ Last Updated on 24/09/2026 10:45:19 UTC
 <!--END_SECTION:waka-->
 
 <br>
