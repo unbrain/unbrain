@@ -78,30 +78,30 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 59 mins (86.27%)
+⏱ AI Coding Time: 20 hrs 50 mins (88.32%)
 
-✍️ 15,005 lines written by AI, 90 lines written by hand (99.4% AI-written)
+✍️ 14,912 lines written by AI, 78 lines written by hand (99.48% AI-written)
 
-🔤 16,075,471 Input Tokens, 893,203 Output Tokens
+🔤 14,409,656 Input Tokens, 818,563 Output Tokens
 
-💵 $47.08 Estimated AI Cost This Week
+💵 $39.91 Estimated AI Cost This Week
 
-🧠 68 AI Sessions, 350 AI Prompts
+🧠 54 AI Sessions, 257 AI Prompts
 
-Gemini                   14,580 lines        ████████████████████████░   95.91 % 
-Sonnet                   351 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-GPT                      268 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Gemini                   14,523 lines        ████████████████████████░   96.12 % 
+Sonnet                   315 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+GPT                      268 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 Claude-Code              3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.4% of written lines came from AI
-📄 Detailed Prompter — average 1,062 characters per prompt
+🤖 AI-Driven — 99.48% of written lines came from AI
+📄 Detailed Prompter — average 1,314 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.78% of changed lines were hand-edited
+🚀 High AI Trust — 0.68% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/09/2026 11:02:30 UTC
+ Last Updated on 28/09/2026 12:22:35 UTC
 <!--END_SECTION:waka-->
 
 <br>
