@@ -71,37 +71,38 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C678%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C681%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-544%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-546%20hrs%2056%20mins-blue?style=flat)
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 50 mins (88.32%)
+⏱ AI Coding Time: 17 hrs 23 mins (84.3%)
 
-✍️ 14,912 lines written by AI, 78 lines written by hand (99.48% AI-written)
+✍️ 15,151 lines written by AI, 77 lines written by hand (99.49% AI-written)
 
-🔤 14,409,656 Input Tokens, 818,563 Output Tokens
+🔤 13,539,523 Input Tokens, 763,817 Output Tokens
 
-💵 $39.91 Estimated AI Cost This Week
+💵 $56.97 Estimated AI Cost This Week
 
-🧠 54 AI Sessions, 257 AI Prompts
+🧠 40 AI Sessions, 213 AI Prompts
 
-Gemini                   14,523 lines        ████████████████████████░   96.12 % 
-Sonnet                   315 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-GPT                      268 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Gemini                   14,117 lines        ███████████████████████░░   91.83 % 
+Opus                     688 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Sonnet                   297 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+GPT                      268 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 Claude-Code              3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.48% of written lines came from AI
-📄 Detailed Prompter — average 1,314 characters per prompt
+🤖 AI-Driven — 99.49% of written lines came from AI
+📚 Verbose Prompter — average 1,837 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.68% of changed lines were hand-edited
+🚀 High AI Trust — 0.84% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/09/2026 12:22:35 UTC
+ Last Updated on 29/09/2026 11:48:48 UTC
 <!--END_SECTION:waka-->
 
 <br>
