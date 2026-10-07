@@ -78,30 +78,28 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 44 mins (69.26%)
+⏱ AI Coding Time: 2 hrs 3 mins (92.31%)
 
-✍️ 566 lines written by AI, 14 lines written by hand (97.59% AI-written)
+✍️ 211 lines written by AI, 2 lines written by hand (99.06% AI-written)
 
-🔤 2,822,553 Input Tokens, 116,315 Output Tokens
+🔤 1,282,512 Input Tokens, 58,216 Output Tokens
 
-💵 $27.56 Estimated AI Cost This Week
+💵 $10.68 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 36 AI Prompts
+🧠 5 AI Sessions, 26 AI Prompts
 
-Opus                     728 lines           ████████████████████░░░░░   78.70 % 
-Gemini                   197 lines           █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Venti                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   197 lines           █████████████████░░░░░░░░   69.12 % 
+Opus                     88 lines            ████████░░░░░░░░░░░░░░░░░   30.88 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.59% of written lines came from AI
-📄 Detailed Prompter — average 1,240 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 2.94% of changed lines were hand-edited
+🤖 AI-Driven — 99.06% of written lines came from AI
+📄 Detailed Prompter — average 646 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.04% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/10/2026 12:26:01 UTC
+ Last Updated on 07/10/2026 12:19:07 UTC
 <!--END_SECTION:waka-->
 
 <br>
