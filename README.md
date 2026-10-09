@@ -71,34 +71,38 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C686%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C693%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-550%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-556%20hrs%2048%20mins-blue?style=flat)
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 50 mins (100.0%)
+⏱ AI Coding Time: 6 hrs 59 mins (88.27%)
 
-✍️ 197 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 200 lines written by AI, 19 lines written by hand (91.32% AI-written)
 
-🔤 267,151 Input Tokens, 27,906 Output Tokens
+🔤 3,267,129 Input Tokens, 224,894 Output Tokens
 
-💵 $0.34 Estimated AI Cost This Week
+💵 $53.62 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 11 AI Prompts
+🧠 31 AI Sessions, 86 AI Prompts
 
-Gemini                   197 lines           █████████████████████████   100.00 % 
+Gemini                   197 lines           ██████████████████████░░░   87.17 % 
+Opus                     26 lines            ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+DeepSeek                 2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+MiMo                     1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 13 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 91.32% of written lines came from AI
+📄 Detailed Prompter — average 550 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 13.74% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/10/2026 12:28:45 UTC
+ Last Updated on 09/10/2026 12:17:29 UTC
 <!--END_SECTION:waka-->
 
 <br>
