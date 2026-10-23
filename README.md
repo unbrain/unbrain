@@ -71,38 +71,38 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C767%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C776%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-628%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-635%20hrs%2058%20mins-blue?style=flat)
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 hrs 57 mins (92.32%)
+⏱ AI Coding Time: 52 hrs 46 mins (90.56%)
 
-✍️ 69,058 lines written by AI, 373 lines written by hand (99.46% AI-written)
+✍️ 65,413 lines written by AI, 407 lines written by hand (99.38% AI-written)
 
-🔤 34,956,587 Input Tokens, 3,791,706 Output Tokens
+🔤 33,975,562 Input Tokens, 3,677,638 Output Tokens
 
-💵 $1095.49 Estimated AI Cost This Week
+💵 $1555.80 Estimated AI Cost This Week
 
-🧠 210 AI Sessions, 669 AI Prompts
+🧠 219 AI Sessions, 695 AI Prompts
 
-Cn:Deepseek              45,250 lines        █████████████████░░░░░░░░   69.21 % 
-DeepSeek                 11,054 lines        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Gemini                   6,864 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-GLM                      992 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Sonnet                   581 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Cn:Deepseek              45,250 lines        ██████████████████░░░░░░░   70.22 % 
+DeepSeek                 13,530 lines        █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+Gemini                   2,764 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Sonnet                   1,257 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+GLM                      992 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.46% of written lines came from AI
-📚 Verbose Prompter — average 2,823 characters per prompt
+🤖 AI-Driven — 99.38% of written lines came from AI
+📄 Detailed Prompter — average 904 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.96% of changed lines were hand-edited
+🚀 High AI Trust — 1.09% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/10/2026 10:51:29 UTC
+ Last Updated on 23/10/2026 10:42:59 UTC
 <!--END_SECTION:waka-->
 
 <br>
