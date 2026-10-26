@@ -78,31 +78,31 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 hrs 17 mins (86.88%)
+⏱ AI Coding Time: 35 hrs 45 mins (86.52%)
 
-✍️ 36,300 lines written by AI, 369 lines written by hand (98.99% AI-written)
+✍️ 34,473 lines written by AI, 371 lines written by hand (98.94% AI-written)
 
-🔤 25,529,485 Input Tokens, 2,317,764 Output Tokens
+🔤 25,941,450 Input Tokens, 2,271,886 Output Tokens
 
-💵 $987.08 Estimated AI Cost This Week
+💵 $969.18 Estimated AI Cost This Week
 
-🧠 170 AI Sessions, 597 AI Prompts
+🧠 155 AI Sessions, 597 AI Prompts
 
-Cn:Deepseek              22,265 lines        ███████████████░░░░░░░░░░   60.33 % 
-DeepSeek                 12,387 lines        ████████░░░░░░░░░░░░░░░░░   33.57 % 
-Sonnet                   1,761 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-Cn:Glm                   360 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-Venti                    112 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Cn:Deepseek              19,389 lines        ██████████████░░░░░░░░░░░   55.46 % 
+DeepSeek                 13,317 lines        ██████████░░░░░░░░░░░░░░░   38.09 % 
+Sonnet                   1,761 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Cn:Glm                   360 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Venti                    112 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.99% of written lines came from AI
-📄 Detailed Prompter — average 1,262 characters per prompt
+🤖 AI-Driven — 98.94% of written lines came from AI
+📄 Detailed Prompter — average 1,261 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.84% of changed lines were hand-edited
+🚀 High AI Trust — 2.02% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/10/2026 10:24:08 UTC
+ Last Updated on 26/10/2026 11:53:01 UTC
 <!--END_SECTION:waka-->
 
 <br>
