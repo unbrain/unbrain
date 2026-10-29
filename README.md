@@ -71,38 +71,38 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C793%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C796%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-649%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-651%20hrs%2037%20mins-blue?style=flat)
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 2 mins (84.95%)
+⏱ AI Coding Time: 25 hrs 32 mins (80.82%)
 
-✍️ 33,076 lines written by AI, 300 lines written by hand (99.1% AI-written)
+✍️ 5,307 lines written by AI, 498 lines written by hand (91.42% AI-written)
 
-🔤 25,656,579 Input Tokens, 2,063,306 Output Tokens
+🔤 21,353,971 Input Tokens, 975,212 Output Tokens
 
-💵 $920.89 Estimated AI Cost This Week
+💵 $563.27 Estimated AI Cost This Week
 
-🧠 159 AI Sessions, 622 AI Prompts
+🧠 91 AI Sessions, 427 AI Prompts
 
-Cn:Deepseek              18,380 lines        ██████████████░░░░░░░░░░░   54.46 % 
-DeepSeek                 12,658 lines        █████████░░░░░░░░░░░░░░░░   37.50 % 
-Sonnet                   1,956 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Opus                     757 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+DeepSeek                 3,495 lines         ██████████████░░░░░░░░░░░   57.26 % 
+Sonnet                   1,835 lines         ████████░░░░░░░░░░░░░░░░░   30.06 % 
+Opus                     757 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Cn:Deepseek              17 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 Venti                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.1% of written lines came from AI
-📚 Verbose Prompter — average 1,738 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.82% of changed lines were hand-edited
+🤖 AI-Driven — 91.42% of written lines came from AI
+📚 Verbose Prompter — average 2,133 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 13.56% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/10/2026 11:50:28 UTC
+ Last Updated on 29/10/2026 11:58:08 UTC
 <!--END_SECTION:waka-->
 
 <br>
